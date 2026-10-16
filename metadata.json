@@ -1,0 +1,6 @@
+{
+  "name": "ORBINEX — Powered by AMT",
+  "description": "Centralized campus mobility and student support SaaS platform for MBCCET providing campus transportation, medical transport, hostel food delivery, college bus tracking, and campus security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
